@@ -1,0 +1,44 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Libraries\ATSAMD21G18A-AU\ATSAMD21G18A-AU.LibPkg
+[Project2]
+ProjectPath=Libraries\BMI160\BMI160.LibPkg
+[Project3]
+ProjectPath=Libraries\BMP390L\BMP390.LibPkg
+[Project4]
+ProjectPath=Libraries\IXDN609SIA\IXDN609SIA.LibPkg
+[Project5]
+ProjectPath=Libraries\KF350\KF350.LibPkg
+[Project6]
+ProjectPath=Libraries\KMR621NGLFS\KMR621NGLFS.LibPkg
+[Project7]
+ProjectPath=Libraries\L-KLS1-TF-003-H1.85-R\L-KLS1-TF-003-H1.85-R.LibPkg
+[Project8]
+ProjectPath=Libraries\MAX3232EIDR\MAX3232EIDR.LibPkg
+[Project9]
+ProjectPath=Libraries\RA-01\RA-01.LibPkg
+[Project10]
+ProjectPath=Libraries\RT3215-32.768-12.5-TR\RT3215-32.768-12.5-TR.LibPkg
+[Project11]
+ProjectPath=Libraries\TLV1117-33IDCYR\TLV1117-33IDCYR.LibPkg
+[Project12]
+ProjectPath=Libraries\UFL Anten\UFL Antenna.LibPkg
+[Project13]
+ProjectPath=Libraries\YX7525P\YX7525P.LibPkg
+[Project14]
+ProjectPath=Libraries\Pasif Komponent\Passives.LibPkg
+[Project15]
+ProjectPath=Libraries\Mini-B USB\Mini-B USB.LibPkg
+[Project16]
+ProjectPath=Libraries\BSS138\BSS138NH6433XTMA1.LibPkg
+[Project17]
+ProjectPath=Libraries\Pad ve Testpoint\Pad ve Testpoint.LibPkg
+[Project18]
+ProjectPath=Libraries\3 Pin JST\3 Pin JST.LibPkg
+[Project19]
+ProjectPath=Libraries\BMP280\BMP280.LibPkg
+[Project20]
+ProjectPath=Libraries\IPT015N10N5\IPT015N10N5.LibPkg
+[Project21]
+ProjectPath=Þahinbey AKS\Þahinbey AKS.PrjPcb
